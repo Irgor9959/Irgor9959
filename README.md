@@ -1,0 +1,4 @@
+- 👋 oi , eu sou  @Irgor9959
+- 👀 eu , estou interessado em criar jogos
+- 🌱 estou aprendendo a programar recentemente linguagem e java script e scrath
+- 📫 meu email de contato é igor.santos.castro@escola.pr.gov.br
